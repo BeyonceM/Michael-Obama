@@ -1,0 +1,19 @@
+body{
+    background-color:yellow;
+    display:flex;
+    }
+p{ 
+    height:50px;
+    border:12px;
+    background-color:red; 
+    font-family: 'Unlock', cursive;
+}
+.dog{
+    width:490px;
+    height:490px;
+ }
+.pig{width:40px;
+}
+.heading{width:50%;
+}
+
